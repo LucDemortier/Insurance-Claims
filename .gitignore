@@ -1,0 +1,7 @@
+*.pdf
+*.png
+.DS_Store
+.ipynb_checkpoints/
+data/
+fitted_models/
+rfr/
